@@ -58,3 +58,132 @@
 [2021-06-17 18:37:40,670] {logging_mixin.py:112} INFO - [2021-06-17 18:37:40,670] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
 [2021-06-17 18:37:40,803] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
 [2021-06-17 18:37:41,002] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.390 seconds
+[2021-06-17 18:37:53,534] {scheduler_job.py:154} INFO - Started process (PID=553) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:37:53,541] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:37:53,552] {logging_mixin.py:112} INFO - [2021-06-17 18:37:53,551] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:37:53,613] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:37:53,701] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.167 seconds
+[2021-06-17 18:38:06,838] {scheduler_job.py:154} INFO - Started process (PID=682) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:38:06,851] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:38:06,853] {logging_mixin.py:112} INFO - [2021-06-17 18:38:06,853] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:38:06,905] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:38:07,148] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.310 seconds
+[2021-06-17 18:38:18,992] {scheduler_job.py:154} INFO - Started process (PID=802) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:38:19,003] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:38:19,005] {logging_mixin.py:112} INFO - [2021-06-17 18:38:19,005] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:38:19,045] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:38:19,253] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.261 seconds
+[2021-06-17 18:38:31,404] {scheduler_job.py:154} INFO - Started process (PID=922) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:38:31,416] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:38:31,419] {logging_mixin.py:112} INFO - [2021-06-17 18:38:31,419] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:38:31,466] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:38:31,986] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.582 seconds
+[2021-06-17 18:38:44,857] {scheduler_job.py:154} INFO - Started process (PID=1042) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:38:44,899] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:38:44,911] {logging_mixin.py:112} INFO - [2021-06-17 18:38:44,911] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:38:45,020] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:38:45,988] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 1.137 seconds
+[2021-06-17 18:39:01,410] {scheduler_job.py:154} INFO - Started process (PID=1167) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:39:01,437] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:39:01,444] {logging_mixin.py:112} INFO - [2021-06-17 18:39:01,443] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:39:01,516] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:39:02,605] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 1.195 seconds
+[2021-06-17 18:39:15,011] {scheduler_job.py:154} INFO - Started process (PID=1287) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:39:15,024] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:39:15,028] {logging_mixin.py:112} INFO - [2021-06-17 18:39:15,027] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:39:15,077] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:39:15,352] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.340 seconds
+[2021-06-17 18:39:30,699] {scheduler_job.py:154} INFO - Started process (PID=1403) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:39:30,718] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:39:30,727] {logging_mixin.py:112} INFO - [2021-06-17 18:39:30,726] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:39:30,798] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:39:31,040] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.341 seconds
+[2021-06-17 18:39:46,852] {scheduler_job.py:154} INFO - Started process (PID=1532) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:39:46,884] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:39:46,895] {logging_mixin.py:112} INFO - [2021-06-17 18:39:46,891] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:39:46,966] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:39:47,440] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.588 seconds
+[2021-06-17 18:39:59,111] {scheduler_job.py:154} INFO - Started process (PID=1652) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:39:59,127] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:39:59,134] {logging_mixin.py:112} INFO - [2021-06-17 18:39:59,133] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:39:59,207] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:39:59,465] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.354 seconds
+[2021-06-17 18:40:11,821] {scheduler_job.py:154} INFO - Started process (PID=1769) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:40:11,871] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:40:11,877] {logging_mixin.py:112} INFO - [2021-06-17 18:40:11,877] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:40:11,977] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:40:12,707] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.885 seconds
+[2021-06-17 18:40:25,316] {scheduler_job.py:154} INFO - Started process (PID=1897) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:40:25,329] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:40:25,335] {logging_mixin.py:112} INFO - [2021-06-17 18:40:25,334] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:40:25,373] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:40:25,649] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.332 seconds
+[2021-06-17 18:40:37,580] {scheduler_job.py:154} INFO - Started process (PID=2017) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:40:37,595] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:40:37,598] {logging_mixin.py:112} INFO - [2021-06-17 18:40:37,597] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:40:37,648] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:40:37,956] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.377 seconds
+[2021-06-17 18:40:49,971] {scheduler_job.py:154} INFO - Started process (PID=2137) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:40:49,978] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:40:49,981] {logging_mixin.py:112} INFO - [2021-06-17 18:40:49,980] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:40:50,016] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:40:50,223] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.253 seconds
+[2021-06-17 18:41:02,576] {scheduler_job.py:154} INFO - Started process (PID=2257) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:41:02,624] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:41:02,636] {logging_mixin.py:112} INFO - [2021-06-17 18:41:02,635] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:41:02,798] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:41:03,511] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.935 seconds
+[2021-06-17 18:41:15,001] {scheduler_job.py:154} INFO - Started process (PID=2377) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:41:15,019] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:41:15,024] {logging_mixin.py:112} INFO - [2021-06-17 18:41:15,024] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:41:15,097] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:41:15,688] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.687 seconds
+[2021-06-17 18:41:27,318] {scheduler_job.py:154} INFO - Started process (PID=2497) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:41:27,329] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:41:27,332] {logging_mixin.py:112} INFO - [2021-06-17 18:41:27,331] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:41:27,376] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:41:27,669] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.351 seconds
+[2021-06-17 18:41:39,635] {scheduler_job.py:154} INFO - Started process (PID=2617) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:41:39,656] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:41:39,662] {logging_mixin.py:112} INFO - [2021-06-17 18:41:39,660] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:41:39,704] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:41:39,955] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.321 seconds
+[2021-06-17 18:41:52,058] {scheduler_job.py:154} INFO - Started process (PID=2737) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:41:52,099] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:41:52,110] {logging_mixin.py:112} INFO - [2021-06-17 18:41:52,109] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:41:52,155] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:41:52,550] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.492 seconds
+[2021-06-17 18:42:04,251] {scheduler_job.py:154} INFO - Started process (PID=2857) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:42:04,283] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:42:04,293] {logging_mixin.py:112} INFO - [2021-06-17 18:42:04,292] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:42:04,345] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:42:04,598] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.346 seconds
+[2021-06-17 18:42:19,555] {scheduler_job.py:154} INFO - Started process (PID=2977) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:42:19,580] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:42:19,587] {logging_mixin.py:112} INFO - [2021-06-17 18:42:19,586] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:42:19,664] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:42:20,087] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.533 seconds
+[2021-06-17 18:42:31,944] {scheduler_job.py:154} INFO - Started process (PID=3097) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:42:31,964] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:42:31,971] {logging_mixin.py:112} INFO - [2021-06-17 18:42:31,968] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:42:32,027] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:42:32,310] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.367 seconds
+[2021-06-17 18:42:44,195] {scheduler_job.py:154} INFO - Started process (PID=3217) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:42:44,213] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:42:44,217] {logging_mixin.py:112} INFO - [2021-06-17 18:42:44,216] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:42:44,267] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:42:44,476] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.281 seconds
+[2021-06-17 18:42:56,532] {scheduler_job.py:154} INFO - Started process (PID=3337) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:42:56,567] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:42:56,569] {logging_mixin.py:112} INFO - [2021-06-17 18:42:56,569] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:42:56,623] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:42:57,005] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.473 seconds
+[2021-06-17 18:43:08,787] {scheduler_job.py:154} INFO - Started process (PID=3457) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:43:08,803] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:43:08,809] {logging_mixin.py:112} INFO - [2021-06-17 18:43:08,807] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:43:08,852] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:43:09,095] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_world.py took 0.308 seconds
+[2021-06-17 18:43:21,130] {scheduler_job.py:154} INFO - Started process (PID=3577) to work on /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:43:21,146] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_world.py for tasks to queue
+[2021-06-17 18:43:21,149] {logging_mixin.py:112} INFO - [2021-06-17 18:43:21,148] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_world.py
+[2021-06-17 18:43:21,379] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_de_prueba']) retrieved from /opt/airflow/dags/dag_hello_world.py

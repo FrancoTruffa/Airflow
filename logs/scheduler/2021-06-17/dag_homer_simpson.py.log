@@ -76,3 +76,185 @@
 [2021-06-17 18:37:34,945] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
 [2021-06-17 18:37:34,976] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
 [2021-06-17 18:37:34,985] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.660 seconds
+[2021-06-17 18:37:48,360] {scheduler_job.py:154} INFO - Started process (PID=502) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:37:48,397] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:37:48,402] {logging_mixin.py:112} INFO - [2021-06-17 18:37:48,400] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:37:48,434] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:37:48,835] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:37:48,870] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:37:48,888] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.528 seconds
+[2021-06-17 18:38:00,689] {scheduler_job.py:154} INFO - Started process (PID=622) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:38:00,706] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:38:00,709] {logging_mixin.py:112} INFO - [2021-06-17 18:38:00,708] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:38:00,738] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:38:01,061] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:38:01,100] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:38:01,115] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.426 seconds
+[2021-06-17 18:38:12,934] {scheduler_job.py:154} INFO - Started process (PID=743) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:38:12,945] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:38:12,949] {logging_mixin.py:112} INFO - [2021-06-17 18:38:12,948] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:38:12,976] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:38:13,180] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:38:13,217] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:38:13,226] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.292 seconds
+[2021-06-17 18:38:25,267] {scheduler_job.py:154} INFO - Started process (PID=865) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:38:25,294] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:38:25,296] {logging_mixin.py:112} INFO - [2021-06-17 18:38:25,296] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:38:25,356] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:38:25,650] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:38:25,669] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:38:25,679] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.411 seconds
+[2021-06-17 18:38:37,651] {scheduler_job.py:154} INFO - Started process (PID=985) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:38:37,671] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:38:37,673] {logging_mixin.py:112} INFO - [2021-06-17 18:38:37,672] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:38:37,697] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:38:37,979] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:38:38,018] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:38:38,035] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.385 seconds
+[2021-06-17 18:38:51,986] {scheduler_job.py:154} INFO - Started process (PID=1107) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:38:52,005] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:38:52,009] {logging_mixin.py:112} INFO - [2021-06-17 18:38:52,008] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:38:52,046] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:38:52,286] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:38:52,313] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:38:52,321] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.335 seconds
+[2021-06-17 18:39:08,808] {scheduler_job.py:154} INFO - Started process (PID=1228) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:39:08,822] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:39:08,828] {logging_mixin.py:112} INFO - [2021-06-17 18:39:08,826] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:39:08,881] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:39:09,498] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:39:09,518] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:39:09,556] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.748 seconds
+[2021-06-17 18:39:22,220] {scheduler_job.py:154} INFO - Started process (PID=1352) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:39:22,276] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:39:22,284] {logging_mixin.py:112} INFO - [2021-06-17 18:39:22,283] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:39:22,483] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:39:23,020] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:39:23,163] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:39:23,175] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.955 seconds
+[2021-06-17 18:39:40,526] {scheduler_job.py:154} INFO - Started process (PID=1472) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:39:40,544] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:39:40,547] {logging_mixin.py:112} INFO - [2021-06-17 18:39:40,547] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:39:40,592] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:39:40,786] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:39:40,837] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:39:40,863] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.338 seconds
+[2021-06-17 18:39:52,944] {scheduler_job.py:154} INFO - Started process (PID=1594) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:39:52,952] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:39:52,954] {logging_mixin.py:112} INFO - [2021-06-17 18:39:52,954] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:39:52,999] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:39:53,503] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:39:53,533] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:39:53,547] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.603 seconds
+[2021-06-17 18:40:05,365] {scheduler_job.py:154} INFO - Started process (PID=1714) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:40:05,381] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:40:05,392] {logging_mixin.py:112} INFO - [2021-06-17 18:40:05,392] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:40:05,567] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:40:06,051] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:40:06,133] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:40:06,151] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.786 seconds
+[2021-06-17 18:40:18,979] {scheduler_job.py:154} INFO - Started process (PID=1837) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:40:18,997] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:40:19,000] {logging_mixin.py:112} INFO - [2021-06-17 18:40:19,000] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:40:19,051] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:40:19,376] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:40:19,414] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:40:19,422] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.453 seconds
+[2021-06-17 18:40:31,475] {scheduler_job.py:154} INFO - Started process (PID=1959) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:40:31,500] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:40:31,506] {logging_mixin.py:112} INFO - [2021-06-17 18:40:31,506] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:40:31,594] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:40:31,871] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:40:31,892] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:40:31,909] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.434 seconds
+[2021-06-17 18:40:43,795] {scheduler_job.py:154} INFO - Started process (PID=2078) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:40:43,800] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:40:43,812] {logging_mixin.py:112} INFO - [2021-06-17 18:40:43,812] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:40:43,866] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:40:44,165] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:40:44,189] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:40:44,200] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.405 seconds
+[2021-06-17 18:40:56,141] {scheduler_job.py:154} INFO - Started process (PID=2198) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:40:56,175] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:40:56,184] {logging_mixin.py:112} INFO - [2021-06-17 18:40:56,184] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:40:56,259] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:40:56,704] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:40:56,730] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:40:56,743] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.602 seconds
+[2021-06-17 18:41:08,795] {scheduler_job.py:154} INFO - Started process (PID=2318) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:41:08,808] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:41:08,812] {logging_mixin.py:112} INFO - [2021-06-17 18:41:08,811] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:41:08,856] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:41:09,059] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:41:09,111] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:41:09,121] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.326 seconds
+[2021-06-17 18:41:21,263] {scheduler_job.py:154} INFO - Started process (PID=2438) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:41:21,287] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:41:21,299] {logging_mixin.py:112} INFO - [2021-06-17 18:41:21,294] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:41:21,348] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:41:21,629] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:41:21,657] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:41:21,668] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.406 seconds
+[2021-06-17 18:41:33,412] {scheduler_job.py:154} INFO - Started process (PID=2558) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:41:33,430] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:41:33,433] {logging_mixin.py:112} INFO - [2021-06-17 18:41:33,432] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:41:33,458] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:41:33,810] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:41:33,860] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:41:33,874] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.462 seconds
+[2021-06-17 18:41:45,863] {scheduler_job.py:154} INFO - Started process (PID=2678) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:41:45,881] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:41:45,885] {logging_mixin.py:112} INFO - [2021-06-17 18:41:45,883] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:41:45,912] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:41:46,160] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:41:46,180] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:41:46,192] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.329 seconds
+[2021-06-17 18:41:58,159] {scheduler_job.py:154} INFO - Started process (PID=2798) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:41:58,186] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:41:58,189] {logging_mixin.py:112} INFO - [2021-06-17 18:41:58,189] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:41:58,219] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:41:58,507] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:41:58,550] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:41:58,558] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.399 seconds
+[2021-06-17 18:42:13,381] {scheduler_job.py:154} INFO - Started process (PID=2918) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:42:13,410] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:42:13,430] {logging_mixin.py:112} INFO - [2021-06-17 18:42:13,427] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:42:13,471] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:42:14,054] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:42:14,111] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:42:14,134] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.753 seconds
+[2021-06-17 18:42:25,829] {scheduler_job.py:154} INFO - Started process (PID=3040) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:42:25,845] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:42:25,850] {logging_mixin.py:112} INFO - [2021-06-17 18:42:25,849] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:42:25,901] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:42:26,152] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:42:26,170] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:42:26,179] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.350 seconds
+[2021-06-17 18:42:38,012] {scheduler_job.py:154} INFO - Started process (PID=3158) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:42:38,024] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:42:38,029] {logging_mixin.py:112} INFO - [2021-06-17 18:42:38,028] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:42:38,068] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:42:38,283] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:42:38,307] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:42:38,321] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.309 seconds
+[2021-06-17 18:42:50,355] {scheduler_job.py:154} INFO - Started process (PID=3278) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:42:50,370] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:42:50,374] {logging_mixin.py:112} INFO - [2021-06-17 18:42:50,374] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:42:50,413] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:42:50,801] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:42:50,853] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:42:50,867] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.512 seconds
+[2021-06-17 18:43:02,638] {scheduler_job.py:154} INFO - Started process (PID=3398) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:43:02,648] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:43:02,651] {logging_mixin.py:112} INFO - [2021-06-17 18:43:02,651] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:43:02,672] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:43:02,934] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:43:02,978] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:43:02,989] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.353 seconds
+[2021-06-17 18:43:14,925] {scheduler_job.py:154} INFO - Started process (PID=3518) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:43:14,941] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-17 18:43:14,952] {logging_mixin.py:112} INFO - [2021-06-17 18:43:14,951] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:43:14,989] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-17 18:43:15,270] {scheduler_job.py:1284} INFO - Processing dag_homer_simpson
+[2021-06-17 18:43:15,296] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_homer_simpson> because no tasks in DAG have SLAs
+[2021-06-17 18:43:15,303] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.378 seconds
