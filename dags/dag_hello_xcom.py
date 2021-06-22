@@ -10,11 +10,20 @@ default_args = {
     'start_date': datetime(2021, 5, 29, 11, 0 , 0)
 }
 
-def hello_world_loop():
+def hello_world_loop(**context):
     for palabra in ['hello', 'world']:
         print(palabra)
     
+    task_instance = context['task_instance']
+    task_instance.xcom_push(key='clave_de_prueba', value = 'valor_de_prueba')
+    
     return 'Retornando Datos'
+
+def prueba_pull(**context):
+    ti = context['task_instance']
+    valor_capturado = ti.xcom_pull(task_ids='prueba_python')
+
+    print(valor_capturado)
 
 with DAG(dag_id='dagPrueba_xcom',
         default_args= default_args,
@@ -27,7 +36,16 @@ with DAG(dag_id='dagPrueba_xcom',
         prueba_python = PythonOperator(
             task_id = 'prueba_python',
             python_callable= hello_world_loop,
-            do_xcom_push = True
+            do_xcom_push = True,
+            provide_context = True
+
+        )
+
+        prueba_pull = PythonOperator(
+            task_id = 'prueba_pull',
+            python_callable= prueba_pull,
+            do_xcom_push = True,
+            provide_context = True
         )
 
         prueba_bash = BashOperator(
@@ -35,5 +53,6 @@ with DAG(dag_id='dagPrueba_xcom',
             bash_command= 'echo prueba_bash'
         )
 
+start >> prueba_python >> prueba_pull >> prueba_bash
 
-start >> prueba_python >> prueba_bash
+#start >> prueba_python >> prueba_bash

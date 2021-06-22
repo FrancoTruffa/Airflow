@@ -1,0 +1,15 @@
+[2021-06-22 19:19:10,578] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: dagPrueba_xcom.prueba_python 2021-06-22T19:18:42.668157+00:00 [queued]>
+[2021-06-22 19:19:10,617] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: dagPrueba_xcom.prueba_python 2021-06-22T19:18:42.668157+00:00 [queued]>
+[2021-06-22 19:19:10,619] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2021-06-22 19:19:10,621] {taskinstance.py:880} INFO - Starting attempt 1 of 1
+[2021-06-22 19:19:10,622] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2021-06-22 19:19:10,649] {taskinstance.py:900} INFO - Executing <Task(PythonOperator): prueba_python> on 2021-06-22T19:18:42.668157+00:00
+[2021-06-22 19:19:10,654] {standard_task_runner.py:53} INFO - Started process 3065 to run task
+[2021-06-22 19:19:10,976] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: dagPrueba_xcom.prueba_python 2021-06-22T19:18:42.668157+00:00 [running]> 651693a3c8b0
+[2021-06-22 19:19:11,047] {logging_mixin.py:112} INFO - hello
+[2021-06-22 19:19:11,049] {logging_mixin.py:112} INFO - world
+[2021-06-22 19:19:11,117] {python_operator.py:114} INFO - Done. Returned value was: Retornando Datos
+[2021-06-22 19:19:11,328] {taskinstance.py:1065} INFO - Marking task as SUCCESS.dag_id=dagPrueba_xcom, task_id=prueba_python, execution_date=20210622T191842, start_date=20210622T191910, end_date=20210622T191911
+[2021-06-22 19:19:20,539] {logging_mixin.py:112} INFO - [2021-06-22 19:19:20,539] {local_task_job.py:103} INFO - Task exited with return code 0
