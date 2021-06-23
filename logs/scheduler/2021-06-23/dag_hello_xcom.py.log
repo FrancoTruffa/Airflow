@@ -1,0 +1,560 @@
+[2021-06-23 18:21:20,748] {scheduler_job.py:154} INFO - Started process (PID=259) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:21:20,754] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:21:20,756] {logging_mixin.py:112} INFO - [2021-06-23 18:21:20,756] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:21:20,773] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:21:20,851] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:21:20,958] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:21:20,965] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.217 seconds
+[2021-06-23 18:21:52,364] {scheduler_job.py:154} INFO - Started process (PID=153) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:21:52,406] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:21:52,409] {logging_mixin.py:112} INFO - [2021-06-23 18:21:52,409] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:21:52,470] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:21:52,623] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:21:52,663] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:21:52,816] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.452 seconds
+[2021-06-23 18:22:05,744] {scheduler_job.py:154} INFO - Started process (PID=288) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:22:05,756] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:22:05,760] {logging_mixin.py:112} INFO - [2021-06-23 18:22:05,759] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:22:05,793] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:22:06,297] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:22:06,356] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:22:06,384] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.640 seconds
+[2021-06-23 18:22:17,996] {scheduler_job.py:154} INFO - Started process (PID=409) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:22:18,009] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:22:18,013] {logging_mixin.py:112} INFO - [2021-06-23 18:22:18,011] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:22:18,050] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:22:18,212] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:22:18,230] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:22:18,238] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.242 seconds
+[2021-06-23 18:22:31,164] {scheduler_job.py:154} INFO - Started process (PID=541) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:22:31,175] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:22:31,179] {logging_mixin.py:112} INFO - [2021-06-23 18:22:31,178] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:22:31,205] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:22:31,364] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:22:31,398] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:22:31,406] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.242 seconds
+[2021-06-23 18:22:44,285] {scheduler_job.py:154} INFO - Started process (PID=669) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:22:44,290] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:22:44,292] {logging_mixin.py:112} INFO - [2021-06-23 18:22:44,292] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:22:44,311] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:22:44,486] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:22:44,501] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:22:44,506] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.221 seconds
+[2021-06-23 18:22:57,466] {scheduler_job.py:154} INFO - Started process (PID=799) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:22:57,478] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:22:57,481] {logging_mixin.py:112} INFO - [2021-06-23 18:22:57,480] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:22:57,516] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:22:57,739] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:22:57,755] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:22:57,761] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.295 seconds
+[2021-06-23 18:23:10,644] {scheduler_job.py:154} INFO - Started process (PID=929) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:23:10,655] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:23:10,658] {logging_mixin.py:112} INFO - [2021-06-23 18:23:10,657] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:23:10,694] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:23:10,848] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:23:10,863] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:23:10,870] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.225 seconds
+[2021-06-23 18:23:23,809] {scheduler_job.py:154} INFO - Started process (PID=1061) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:23:23,817] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:23:23,820] {logging_mixin.py:112} INFO - [2021-06-23 18:23:23,819] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:23:23,849] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:23:23,985] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:23:23,999] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:23:24,005] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.196 seconds
+[2021-06-23 18:23:37,013] {scheduler_job.py:154} INFO - Started process (PID=1191) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:23:37,019] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:23:37,022] {logging_mixin.py:112} INFO - [2021-06-23 18:23:37,022] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:23:37,054] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:23:37,192] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:23:37,205] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:23:37,210] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.197 seconds
+[2021-06-23 18:23:50,154] {scheduler_job.py:154} INFO - Started process (PID=1319) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:23:50,175] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:23:50,179] {logging_mixin.py:112} INFO - [2021-06-23 18:23:50,178] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:23:50,210] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:23:50,454] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:23:50,483] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:23:50,491] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.337 seconds
+[2021-06-23 18:24:03,354] {scheduler_job.py:154} INFO - Started process (PID=1451) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:24:03,368] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:24:03,371] {logging_mixin.py:112} INFO - [2021-06-23 18:24:03,370] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:24:03,409] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:24:03,569] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:24:03,590] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:24:03,598] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.245 seconds
+[2021-06-23 18:24:16,574] {scheduler_job.py:154} INFO - Started process (PID=1579) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:24:16,595] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:24:16,597] {logging_mixin.py:112} INFO - [2021-06-23 18:24:16,597] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:24:16,634] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:24:16,901] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:24:16,914] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:24:16,920] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.345 seconds
+[2021-06-23 18:24:29,711] {scheduler_job.py:154} INFO - Started process (PID=1709) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:24:29,719] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:24:29,721] {logging_mixin.py:112} INFO - [2021-06-23 18:24:29,721] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:24:29,757] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:24:29,987] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:24:30,005] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:24:30,012] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.302 seconds
+[2021-06-23 18:24:42,877] {scheduler_job.py:154} INFO - Started process (PID=1840) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:24:42,884] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:24:42,894] {logging_mixin.py:112} INFO - [2021-06-23 18:24:42,894] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:24:42,927] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:24:43,117] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:24:43,136] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:24:43,146] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.270 seconds
+[2021-06-23 18:24:56,145] {scheduler_job.py:154} INFO - Started process (PID=1971) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:24:56,154] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:24:56,157] {logging_mixin.py:112} INFO - [2021-06-23 18:24:56,156] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:24:56,190] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:24:56,371] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:24:56,385] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:24:56,392] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.247 seconds
+[2021-06-23 18:25:09,306] {scheduler_job.py:154} INFO - Started process (PID=2101) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:25:09,322] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:25:09,329] {logging_mixin.py:112} INFO - [2021-06-23 18:25:09,327] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:25:09,379] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:25:09,535] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:25:09,571] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:25:09,587] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.281 seconds
+[2021-06-23 18:25:22,434] {scheduler_job.py:154} INFO - Started process (PID=2229) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:25:22,446] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:25:22,449] {logging_mixin.py:112} INFO - [2021-06-23 18:25:22,449] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:25:22,485] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:25:22,703] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:25:22,728] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:25:22,735] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.301 seconds
+[2021-06-23 18:25:35,632] {scheduler_job.py:154} INFO - Started process (PID=2359) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:25:35,645] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:25:35,649] {logging_mixin.py:112} INFO - [2021-06-23 18:25:35,648] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:25:35,688] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:25:35,832] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:25:35,844] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:25:35,850] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.218 seconds
+[2021-06-23 18:25:48,809] {scheduler_job.py:154} INFO - Started process (PID=2489) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:25:48,820] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:25:48,822] {logging_mixin.py:112} INFO - [2021-06-23 18:25:48,821] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:25:48,860] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:25:49,073] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:25:49,093] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:25:49,101] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.292 seconds
+[2021-06-23 18:26:02,012] {scheduler_job.py:154} INFO - Started process (PID=2619) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:26:02,030] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:26:02,032] {logging_mixin.py:112} INFO - [2021-06-23 18:26:02,032] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:26:02,068] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:26:02,253] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:26:02,265] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:26:02,271] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.258 seconds
+[2021-06-23 18:26:15,190] {scheduler_job.py:154} INFO - Started process (PID=2749) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:26:15,210] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:26:15,218] {logging_mixin.py:112} INFO - [2021-06-23 18:26:15,214] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:26:15,268] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:26:15,514] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:26:15,540] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:26:15,546] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.356 seconds
+[2021-06-23 18:26:28,359] {scheduler_job.py:154} INFO - Started process (PID=2880) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:26:28,370] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:26:28,372] {logging_mixin.py:112} INFO - [2021-06-23 18:26:28,372] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:26:28,390] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:26:28,550] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:26:28,575] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:26:28,585] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.226 seconds
+[2021-06-23 18:26:41,518] {scheduler_job.py:154} INFO - Started process (PID=3009) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:26:41,535] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:26:41,541] {logging_mixin.py:112} INFO - [2021-06-23 18:26:41,540] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:26:41,570] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:26:41,798] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:26:41,813] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:26:41,819] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.301 seconds
+[2021-06-23 18:26:54,718] {scheduler_job.py:154} INFO - Started process (PID=3139) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:26:54,731] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:26:54,734] {logging_mixin.py:112} INFO - [2021-06-23 18:26:54,733] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:26:54,761] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:26:54,985] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:26:55,004] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:26:55,011] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.293 seconds
+[2021-06-23 18:27:07,910] {scheduler_job.py:154} INFO - Started process (PID=3269) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:27:07,918] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:27:07,920] {logging_mixin.py:112} INFO - [2021-06-23 18:27:07,920] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:27:07,951] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:27:08,179] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:27:08,197] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:27:08,202] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.292 seconds
+[2021-06-23 18:27:21,089] {scheduler_job.py:154} INFO - Started process (PID=3399) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:27:21,103] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:27:21,108] {logging_mixin.py:112} INFO - [2021-06-23 18:27:21,107] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:27:21,141] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:27:21,310] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:27:21,322] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:27:21,330] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.241 seconds
+[2021-06-23 18:27:34,267] {scheduler_job.py:154} INFO - Started process (PID=3531) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:27:34,275] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:27:34,277] {logging_mixin.py:112} INFO - [2021-06-23 18:27:34,277] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:27:34,437] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:27:34,505] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:27:34,532] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:27:34,538] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.271 seconds
+[2021-06-23 18:27:47,424] {scheduler_job.py:154} INFO - Started process (PID=3661) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:27:47,446] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:27:47,447] {logging_mixin.py:112} INFO - [2021-06-23 18:27:47,447] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:27:47,608] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:27:47,675] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:27:47,697] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:27:47,703] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.280 seconds
+[2021-06-23 18:28:00,598] {scheduler_job.py:154} INFO - Started process (PID=3791) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:28:00,612] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:28:00,621] {logging_mixin.py:112} INFO - [2021-06-23 18:28:00,621] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:28:00,812] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:28:00,862] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:28:00,873] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:28:00,878] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.281 seconds
+[2021-06-23 18:28:13,740] {scheduler_job.py:154} INFO - Started process (PID=3920) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:28:13,751] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:28:13,753] {logging_mixin.py:112} INFO - [2021-06-23 18:28:13,752] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:28:13,948] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:28:14,001] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:28:14,013] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:28:14,019] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.280 seconds
+[2021-06-23 18:28:26,932] {scheduler_job.py:154} INFO - Started process (PID=4049) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:28:26,944] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:28:26,950] {logging_mixin.py:112} INFO - [2021-06-23 18:28:26,950] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:28:27,147] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:28:27,199] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:28:27,216] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:28:27,221] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.289 seconds
+[2021-06-23 18:28:40,098] {scheduler_job.py:154} INFO - Started process (PID=4179) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:28:40,110] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:28:40,113] {logging_mixin.py:112} INFO - [2021-06-23 18:28:40,112] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:28:40,283] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:28:40,356] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:28:40,381] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:28:40,386] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.288 seconds
+[2021-06-23 18:28:53,257] {scheduler_job.py:154} INFO - Started process (PID=4309) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:28:53,272] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:28:53,274] {logging_mixin.py:112} INFO - [2021-06-23 18:28:53,274] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:28:53,455] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:28:53,557] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:28:53,579] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:28:53,589] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.332 seconds
+[2021-06-23 18:29:47,234] {scheduler_job.py:154} INFO - Started process (PID=4443) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:29:47,244] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:29:47,253] {logging_mixin.py:112} INFO - [2021-06-23 18:29:47,252] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:29:47,420] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:29:47,512] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:29:47,545] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:29:47,552] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.318 seconds
+[2021-06-23 18:31:34,471] {scheduler_job.py:154} INFO - Started process (PID=227) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:31:34,500] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:31:34,503] {logging_mixin.py:112} INFO - [2021-06-23 18:31:34,503] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:31:34,555] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:31:34,714] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:31:34,909] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:31:34,916] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.445 seconds
+[2021-06-23 18:31:48,812] {scheduler_job.py:154} INFO - Started process (PID=364) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:31:48,827] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:31:48,840] {logging_mixin.py:112} INFO - [2021-06-23 18:31:48,840] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:31:48,880] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:31:49,053] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:31:49,075] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:31:49,084] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.272 seconds
+[2021-06-23 18:32:02,152] {scheduler_job.py:154} INFO - Started process (PID=494) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:32:02,185] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:32:02,189] {logging_mixin.py:112} INFO - [2021-06-23 18:32:02,188] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:32:02,266] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:32:02,559] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:32:02,591] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:32:02,609] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.457 seconds
+[2021-06-23 18:32:15,440] {scheduler_job.py:154} INFO - Started process (PID=623) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:32:15,456] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:32:15,461] {logging_mixin.py:112} INFO - [2021-06-23 18:32:15,459] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:32:15,530] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:32:15,990] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:32:16,027] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:32:16,059] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.619 seconds
+[2021-06-23 18:32:28,763] {scheduler_job.py:154} INFO - Started process (PID=753) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:32:28,774] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:32:28,776] {logging_mixin.py:112} INFO - [2021-06-23 18:32:28,776] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:32:28,804] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:32:29,182] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:32:29,226] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:32:29,244] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.481 seconds
+[2021-06-23 18:32:42,091] {scheduler_job.py:154} INFO - Started process (PID=883) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:32:42,099] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:32:42,101] {logging_mixin.py:112} INFO - [2021-06-23 18:32:42,101] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:32:42,129] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:32:42,382] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:32:42,398] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:32:42,403] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.312 seconds
+[2021-06-23 18:32:55,495] {scheduler_job.py:154} INFO - Started process (PID=1015) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:32:55,519] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:32:55,526] {logging_mixin.py:112} INFO - [2021-06-23 18:32:55,525] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:32:55,581] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:32:55,805] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:32:55,830] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:32:55,842] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.347 seconds
+[2021-06-23 18:33:08,603] {scheduler_job.py:154} INFO - Started process (PID=1143) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:33:08,632] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:33:08,636] {logging_mixin.py:112} INFO - [2021-06-23 18:33:08,635] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:33:08,678] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:33:08,938] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:33:08,973] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:33:08,984] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.380 seconds
+[2021-06-23 18:33:21,886] {scheduler_job.py:154} INFO - Started process (PID=1274) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:33:21,926] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:33:21,929] {logging_mixin.py:112} INFO - [2021-06-23 18:33:21,929] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:33:21,970] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:33:22,188] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:33:22,209] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:33:22,218] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.332 seconds
+[2021-06-23 18:33:57,738] {scheduler_job.py:154} INFO - Started process (PID=151) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:33:57,797] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:33:57,807] {logging_mixin.py:112} INFO - [2021-06-23 18:33:57,804] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:33:57,859] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:33:57,980] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:33:58,026] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:33:58,191] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.453 seconds
+[2021-06-23 18:34:11,834] {scheduler_job.py:154} INFO - Started process (PID=291) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:34:11,842] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:34:11,844] {logging_mixin.py:112} INFO - [2021-06-23 18:34:11,844] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:34:11,878] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:34:12,026] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:34:12,039] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:34:12,044] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.211 seconds
+[2021-06-23 18:34:25,002] {scheduler_job.py:154} INFO - Started process (PID=421) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:34:25,014] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:34:25,038] {logging_mixin.py:112} INFO - [2021-06-23 18:34:25,038] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:34:25,083] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:34:25,272] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:34:25,285] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:34:25,296] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.295 seconds
+[2021-06-23 18:34:38,419] {scheduler_job.py:154} INFO - Started process (PID=551) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:34:38,437] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:34:38,448] {logging_mixin.py:112} INFO - [2021-06-23 18:34:38,447] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:34:38,570] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:34:39,073] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:34:39,108] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:34:39,125] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.706 seconds
+[2021-06-23 18:34:51,639] {scheduler_job.py:154} INFO - Started process (PID=681) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:34:51,646] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:34:51,650] {logging_mixin.py:112} INFO - [2021-06-23 18:34:51,649] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:34:51,676] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:34:51,842] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:34:51,855] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:34:51,862] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.223 seconds
+[2021-06-23 18:35:04,927] {scheduler_job.py:154} INFO - Started process (PID=811) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:35:04,959] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:35:04,964] {logging_mixin.py:112} INFO - [2021-06-23 18:35:04,962] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:35:05,012] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:35:05,252] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:35:05,274] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:35:05,287] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.361 seconds
+[2021-06-23 18:35:18,140] {scheduler_job.py:154} INFO - Started process (PID=941) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:35:18,171] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:35:18,176] {logging_mixin.py:112} INFO - [2021-06-23 18:35:18,175] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:35:18,222] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:35:18,390] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:35:18,404] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:35:18,410] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.269 seconds
+[2021-06-23 18:37:17,287] {scheduler_job.py:154} INFO - Started process (PID=171) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:37:17,339] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:37:17,344] {logging_mixin.py:112} INFO - [2021-06-23 18:37:17,343] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:37:17,398] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:37:17,551] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:37:17,855] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:37:17,876] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.589 seconds
+[2021-06-23 18:37:31,549] {scheduler_job.py:154} INFO - Started process (PID=311) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:37:31,565] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:37:31,569] {logging_mixin.py:112} INFO - [2021-06-23 18:37:31,569] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:37:31,617] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:37:31,798] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:37:31,843] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:37:31,849] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.300 seconds
+[2021-06-23 18:37:44,730] {scheduler_job.py:154} INFO - Started process (PID=441) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:37:44,737] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:37:44,743] {logging_mixin.py:112} INFO - [2021-06-23 18:37:44,742] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:37:44,780] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:37:44,974] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:37:45,003] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:37:45,024] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.294 seconds
+[2021-06-23 18:37:57,947] {scheduler_job.py:154} INFO - Started process (PID=571) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:37:57,966] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:37:57,974] {logging_mixin.py:112} INFO - [2021-06-23 18:37:57,972] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:37:58,019] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:37:58,313] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:37:58,329] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:37:58,335] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.388 seconds
+[2021-06-23 18:38:11,075] {scheduler_job.py:154} INFO - Started process (PID=701) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:38:11,081] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:38:11,085] {logging_mixin.py:112} INFO - [2021-06-23 18:38:11,085] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:38:11,118] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:38:11,365] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:38:11,380] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:38:11,402] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.327 seconds
+[2021-06-23 18:38:24,319] {scheduler_job.py:154} INFO - Started process (PID=831) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:38:24,325] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:38:24,345] {logging_mixin.py:112} INFO - [2021-06-23 18:38:24,344] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:38:24,403] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:38:24,699] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:38:24,723] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:38:24,735] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.416 seconds
+[2021-06-23 18:38:37,565] {scheduler_job.py:154} INFO - Started process (PID=961) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:38:37,574] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:38:37,576] {logging_mixin.py:112} INFO - [2021-06-23 18:38:37,576] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:38:37,601] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:38:37,859] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:38:37,881] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:38:37,894] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.330 seconds
+[2021-06-23 18:38:50,821] {scheduler_job.py:154} INFO - Started process (PID=1091) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:38:50,841] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:38:50,847] {logging_mixin.py:112} INFO - [2021-06-23 18:38:50,845] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:38:50,930] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:38:51,210] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:38:51,242] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:38:51,256] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.434 seconds
+[2021-06-23 18:39:04,073] {scheduler_job.py:154} INFO - Started process (PID=1221) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:39:04,092] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:39:04,105] {logging_mixin.py:112} INFO - [2021-06-23 18:39:04,105] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:39:04,156] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:39:04,457] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:39:04,498] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:39:04,512] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.439 seconds
+[2021-06-23 18:39:17,578] {scheduler_job.py:154} INFO - Started process (PID=1351) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:39:17,613] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:39:17,620] {logging_mixin.py:112} INFO - [2021-06-23 18:39:17,617] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:39:17,685] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:39:18,431] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:39:18,521] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:39:18,528] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.951 seconds
+[2021-06-23 18:39:30,938] {scheduler_job.py:154} INFO - Started process (PID=1481) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:39:30,948] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:39:30,958] {logging_mixin.py:112} INFO - [2021-06-23 18:39:30,956] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:39:31,063] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:39:31,587] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:39:31,656] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:39:31,679] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.763 seconds
+[2021-06-23 18:39:44,222] {scheduler_job.py:154} INFO - Started process (PID=1611) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:39:44,238] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:39:44,253] {logging_mixin.py:112} INFO - [2021-06-23 18:39:44,251] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:39:44,323] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:39:44,776] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:39:44,804] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:39:44,812] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.590 seconds
+[2021-06-23 18:39:57,550] {scheduler_job.py:154} INFO - Started process (PID=1741) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:39:57,585] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:39:57,590] {logging_mixin.py:112} INFO - [2021-06-23 18:39:57,589] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:39:57,643] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:39:58,004] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:39:58,021] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:39:58,027] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.477 seconds
+[2021-06-23 18:40:10,750] {scheduler_job.py:154} INFO - Started process (PID=1871) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:40:10,773] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:40:10,778] {logging_mixin.py:112} INFO - [2021-06-23 18:40:10,777] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:40:10,833] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:40:11,093] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:40:11,116] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:40:11,126] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.376 seconds
+[2021-06-23 18:40:24,070] {scheduler_job.py:154} INFO - Started process (PID=2001) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:40:24,089] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:40:24,094] {logging_mixin.py:112} INFO - [2021-06-23 18:40:24,094] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:40:24,156] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:40:24,449] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:40:24,471] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:40:24,478] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.408 seconds
+[2021-06-23 18:40:37,263] {scheduler_job.py:154} INFO - Started process (PID=2131) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:40:37,279] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:40:37,285] {logging_mixin.py:112} INFO - [2021-06-23 18:40:37,283] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:40:37,343] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:40:37,695] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:40:37,717] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:40:37,728] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.465 seconds
+[2021-06-23 18:40:50,754] {scheduler_job.py:154} INFO - Started process (PID=2261) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:40:50,780] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:40:50,793] {logging_mixin.py:112} INFO - [2021-06-23 18:40:50,788] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:40:50,857] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:40:51,150] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:40:51,169] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:40:51,175] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.421 seconds
+[2021-06-23 18:41:06,486] {scheduler_job.py:154} INFO - Started process (PID=2403) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:41:06,509] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:41:06,514] {logging_mixin.py:112} INFO - [2021-06-23 18:41:06,513] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:41:06,588] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:41:07,200] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:41:07,299] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:41:07,306] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.820 seconds
+[2021-06-23 18:41:22,638] {scheduler_job.py:154} INFO - Started process (PID=2536) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:41:22,662] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:41:22,677] {logging_mixin.py:112} INFO - [2021-06-23 18:41:22,677] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:41:22,809] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:41:24,048] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:41:24,135] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:41:24,148] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 1.510 seconds
+[2021-06-23 18:41:39,043] {scheduler_job.py:154} INFO - Started process (PID=2668) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:41:39,105] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:41:39,109] {logging_mixin.py:112} INFO - [2021-06-23 18:41:39,108] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:41:39,152] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:41:39,291] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:41:39,312] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:41:39,321] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.278 seconds
+[2021-06-23 18:42:09,230] {scheduler_job.py:154} INFO - Started process (PID=162) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:42:09,247] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:42:09,254] {logging_mixin.py:112} INFO - [2021-06-23 18:42:09,254] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:42:09,307] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:42:09,497] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:42:09,675] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:42:09,683] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.453 seconds
+[2021-06-23 18:42:23,431] {scheduler_job.py:154} INFO - Started process (PID=302) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:42:23,445] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:42:23,449] {logging_mixin.py:112} INFO - [2021-06-23 18:42:23,449] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:42:23,480] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:42:23,684] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:42:23,698] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:42:23,703] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.273 seconds
+[2021-06-23 18:42:36,667] {scheduler_job.py:154} INFO - Started process (PID=432) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:42:36,677] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:42:36,686] {logging_mixin.py:112} INFO - [2021-06-23 18:42:36,685] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:42:36,738] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:42:36,967] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:42:36,987] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:42:36,996] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.329 seconds
+[2021-06-23 18:42:49,916] {scheduler_job.py:154} INFO - Started process (PID=562) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:42:49,925] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:42:49,928] {logging_mixin.py:112} INFO - [2021-06-23 18:42:49,927] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:42:49,952] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:42:50,161] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:42:50,176] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:42:50,185] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.270 seconds
+[2021-06-23 18:43:03,085] {scheduler_job.py:154} INFO - Started process (PID=692) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:43:03,113] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:43:03,120] {logging_mixin.py:112} INFO - [2021-06-23 18:43:03,119] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:43:03,180] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:43:03,331] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:43:03,360] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:43:03,374] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.289 seconds
+[2021-06-23 18:43:16,279] {scheduler_job.py:154} INFO - Started process (PID=822) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:43:16,302] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:43:16,304] {logging_mixin.py:112} INFO - [2021-06-23 18:43:16,304] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:43:16,346] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:43:16,647] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:43:16,680] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:43:16,695] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.416 seconds
+[2021-06-23 18:43:29,494] {scheduler_job.py:154} INFO - Started process (PID=952) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:43:29,503] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:43:29,512] {logging_mixin.py:112} INFO - [2021-06-23 18:43:29,509] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:43:29,596] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:43:29,979] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:43:30,032] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:43:30,057] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.562 seconds
+[2021-06-23 18:43:43,866] {scheduler_job.py:154} INFO - Started process (PID=1082) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:43:43,886] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:43:43,891] {logging_mixin.py:112} INFO - [2021-06-23 18:43:43,889] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:43:43,942] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:43:44,108] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:43:44,148] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:43:44,168] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.303 seconds
+[2021-06-23 18:43:58,217] {scheduler_job.py:154} INFO - Started process (PID=1212) to work on /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:43:58,235] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_xcom.py for tasks to queue
+[2021-06-23 18:43:58,239] {logging_mixin.py:112} INFO - [2021-06-23 18:43:58,239] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:43:58,273] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_xcom.py
+[2021-06-23 18:43:58,417] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:43:58,455] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:43:58,474] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_xcom.py took 0.257 seconds

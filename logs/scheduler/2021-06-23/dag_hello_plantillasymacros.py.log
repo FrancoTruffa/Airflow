@@ -1,0 +1,270 @@
+[2021-06-23 18:31:29,533] {scheduler_job.py:154} INFO - Started process (PID=172) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:31:29,548] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:31:29,551] {logging_mixin.py:112} INFO - [2021-06-23 18:31:29,550] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:31:29,591] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:31:29,740] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:31:29,887] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:31:29,899] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.367 seconds
+[2021-06-23 18:31:43,656] {scheduler_job.py:154} INFO - Started process (PID=312) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:31:43,662] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:31:43,668] {logging_mixin.py:112} INFO - [2021-06-23 18:31:43,668] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:31:43,696] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:31:43,896] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:31:43,910] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:31:43,916] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.259 seconds
+[2021-06-23 18:31:56,942] {scheduler_job.py:154} INFO - Started process (PID=442) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:31:56,949] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:31:56,951] {logging_mixin.py:112} INFO - [2021-06-23 18:31:56,951] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:31:56,971] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:31:57,133] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:31:57,147] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:31:57,152] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.210 seconds
+[2021-06-23 18:32:10,459] {scheduler_job.py:154} INFO - Started process (PID=572) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:32:10,489] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:32:10,514] {logging_mixin.py:112} INFO - [2021-06-23 18:32:10,513] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:32:10,583] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:32:10,931] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:32:10,953] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:32:10,963] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.504 seconds
+[2021-06-23 18:32:23,674] {scheduler_job.py:154} INFO - Started process (PID=702) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:32:23,711] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:32:23,714] {logging_mixin.py:112} INFO - [2021-06-23 18:32:23,713] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:32:23,779] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:32:24,018] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:32:24,058] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:32:24,089] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.415 seconds
+[2021-06-23 18:32:36,932] {scheduler_job.py:154} INFO - Started process (PID=832) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:32:36,946] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:32:36,951] {logging_mixin.py:112} INFO - [2021-06-23 18:32:36,950] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:32:36,995] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:32:37,174] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:32:37,188] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:32:37,194] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.262 seconds
+[2021-06-23 18:32:50,327] {scheduler_job.py:154} INFO - Started process (PID=962) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:32:50,344] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:32:50,352] {logging_mixin.py:112} INFO - [2021-06-23 18:32:50,350] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:32:50,422] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:32:50,578] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:32:50,596] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:32:50,602] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.278 seconds
+[2021-06-23 18:33:03,589] {scheduler_job.py:154} INFO - Started process (PID=1092) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:33:03,602] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:33:03,606] {logging_mixin.py:112} INFO - [2021-06-23 18:33:03,605] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:33:03,655] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:33:03,913] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:33:03,947] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:33:03,958] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.369 seconds
+[2021-06-23 18:33:16,733] {scheduler_job.py:154} INFO - Started process (PID=1222) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:33:16,745] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:33:16,754] {logging_mixin.py:112} INFO - [2021-06-23 18:33:16,754] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:33:16,783] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:33:17,052] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:33:17,081] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:33:17,087] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.354 seconds
+[2021-06-23 18:34:05,783] {scheduler_job.py:154} INFO - Started process (PID=231) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:34:05,797] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:34:05,801] {logging_mixin.py:112} INFO - [2021-06-23 18:34:05,800] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:34:05,853] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:34:05,928] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:34:06,020] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:34:06,037] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.254 seconds
+[2021-06-23 18:34:19,949] {scheduler_job.py:154} INFO - Started process (PID=371) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:34:19,960] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:34:19,963] {logging_mixin.py:112} INFO - [2021-06-23 18:34:19,962] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:34:20,011] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:34:20,155] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:34:20,176] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:34:20,186] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.236 seconds
+[2021-06-23 18:34:33,194] {scheduler_job.py:154} INFO - Started process (PID=501) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:34:33,207] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:34:33,216] {logging_mixin.py:112} INFO - [2021-06-23 18:34:33,216] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:34:33,258] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:34:33,592] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:34:33,642] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:34:33,649] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.456 seconds
+[2021-06-23 18:34:46,471] {scheduler_job.py:154} INFO - Started process (PID=631) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:34:46,486] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:34:46,492] {logging_mixin.py:112} INFO - [2021-06-23 18:34:46,491] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:34:46,536] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:34:46,713] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:34:46,731] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:34:46,738] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.268 seconds
+[2021-06-23 18:34:59,836] {scheduler_job.py:154} INFO - Started process (PID=761) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:34:59,853] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:34:59,861] {logging_mixin.py:112} INFO - [2021-06-23 18:34:59,860] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:34:59,932] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:35:00,129] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:35:00,146] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:35:00,153] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.317 seconds
+[2021-06-23 18:35:13,072] {scheduler_job.py:154} INFO - Started process (PID=891) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:35:13,082] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:35:13,087] {logging_mixin.py:112} INFO - [2021-06-23 18:35:13,085] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:35:13,133] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:35:13,285] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:35:13,300] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:35:13,311] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.239 seconds
+[2021-06-23 18:37:20,451] {scheduler_job.py:154} INFO - Started process (PID=201) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:37:20,476] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:37:20,480] {logging_mixin.py:112} INFO - [2021-06-23 18:37:20,479] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:37:20,549] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:37:20,724] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:37:20,944] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:37:20,961] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.510 seconds
+[2021-06-23 18:37:34,612] {scheduler_job.py:154} INFO - Started process (PID=341) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:37:34,619] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:37:34,628] {logging_mixin.py:112} INFO - [2021-06-23 18:37:34,627] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:37:34,657] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:37:34,849] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:37:34,871] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:37:34,881] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.269 seconds
+[2021-06-23 18:37:47,807] {scheduler_job.py:154} INFO - Started process (PID=471) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:37:47,816] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:37:47,819] {logging_mixin.py:112} INFO - [2021-06-23 18:37:47,819] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:37:47,854] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:37:48,087] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:37:48,101] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:37:48,107] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.300 seconds
+[2021-06-23 18:38:00,933] {scheduler_job.py:154} INFO - Started process (PID=601) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:38:00,943] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:38:00,947] {logging_mixin.py:112} INFO - [2021-06-23 18:38:00,946] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:38:00,966] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:38:01,206] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:38:01,234] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:38:01,243] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.310 seconds
+[2021-06-23 18:38:14,152] {scheduler_job.py:154} INFO - Started process (PID=731) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:38:14,168] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:38:14,171] {logging_mixin.py:112} INFO - [2021-06-23 18:38:14,170] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:38:14,208] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:38:14,442] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:38:14,464] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:38:14,471] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.318 seconds
+[2021-06-23 18:38:27,423] {scheduler_job.py:154} INFO - Started process (PID=861) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:38:27,433] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:38:27,441] {logging_mixin.py:112} INFO - [2021-06-23 18:38:27,439] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:38:27,495] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:38:27,742] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:38:27,764] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:38:27,771] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.348 seconds
+[2021-06-23 18:38:40,629] {scheduler_job.py:154} INFO - Started process (PID=991) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:38:40,644] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:38:40,648] {logging_mixin.py:112} INFO - [2021-06-23 18:38:40,648] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:38:40,691] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:38:40,979] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:38:40,996] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:38:41,003] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.375 seconds
+[2021-06-23 18:38:53,845] {scheduler_job.py:154} INFO - Started process (PID=1121) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:38:53,852] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:38:53,854] {logging_mixin.py:112} INFO - [2021-06-23 18:38:53,854] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:38:53,879] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:38:54,055] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:38:54,071] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:38:54,078] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.233 seconds
+[2021-06-23 18:39:07,364] {scheduler_job.py:154} INFO - Started process (PID=1251) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:39:07,382] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:39:07,392] {logging_mixin.py:112} INFO - [2021-06-23 18:39:07,391] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:39:07,457] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:39:07,794] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:39:07,808] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:39:07,837] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.473 seconds
+[2021-06-23 18:39:20,678] {scheduler_job.py:154} INFO - Started process (PID=1381) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:39:20,687] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:39:20,689] {logging_mixin.py:112} INFO - [2021-06-23 18:39:20,689] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:39:20,722] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:39:20,940] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:39:20,971] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:39:20,989] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.312 seconds
+[2021-06-23 18:39:33,962] {scheduler_job.py:154} INFO - Started process (PID=1511) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:39:33,977] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:39:33,988] {logging_mixin.py:112} INFO - [2021-06-23 18:39:33,986] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:39:34,081] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:39:34,378] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:39:34,400] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:39:34,414] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.451 seconds
+[2021-06-23 18:39:47,252] {scheduler_job.py:154} INFO - Started process (PID=1641) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:39:47,303] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:39:47,309] {logging_mixin.py:112} INFO - [2021-06-23 18:39:47,309] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:39:47,333] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:39:47,771] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:39:47,805] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:39:47,824] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.572 seconds
+[2021-06-23 18:40:00,575] {scheduler_job.py:154} INFO - Started process (PID=1771) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:40:00,593] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:40:00,600] {logging_mixin.py:112} INFO - [2021-06-23 18:40:00,597] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:40:00,644] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dagPrueba_xcom']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:40:00,880] {scheduler_job.py:1284} INFO - Processing dagPrueba_xcom
+[2021-06-23 18:40:00,903] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagPrueba_xcom> because no tasks in DAG have SLAs
+[2021-06-23 18:40:00,912] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.338 seconds
+[2021-06-23 18:40:13,861] {scheduler_job.py:154} INFO - Started process (PID=1901) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:40:13,880] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:40:13,884] {logging_mixin.py:112} INFO - [2021-06-23 18:40:13,883] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:40:13,951] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_prueba_macros']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:40:14,012] {logging_mixin.py:112} INFO - [2021-06-23 18:40:14,012] {dag.py:1501} INFO - Creating ORM DAG for dag_prueba_macros
+[2021-06-23 18:40:14,257] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.396 seconds
+[2021-06-23 18:40:27,101] {scheduler_job.py:154} INFO - Started process (PID=2031) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:40:27,109] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:40:27,114] {logging_mixin.py:112} INFO - [2021-06-23 18:40:27,114] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:40:27,177] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_prueba_macros']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:40:27,363] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.262 seconds
+[2021-06-23 18:40:40,446] {scheduler_job.py:154} INFO - Started process (PID=2161) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:40:40,459] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:40:40,463] {logging_mixin.py:112} INFO - [2021-06-23 18:40:40,462] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:40:40,559] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_prueba_macros']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:40:40,819] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.373 seconds
+[2021-06-23 18:40:53,774] {scheduler_job.py:154} INFO - Started process (PID=2291) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:40:53,791] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:40:53,795] {logging_mixin.py:112} INFO - [2021-06-23 18:40:53,793] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:40:53,854] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_prueba_macros']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:40:54,141] {scheduler_job.py:1284} INFO - Processing dag_prueba_macros
+[2021-06-23 18:40:54,217] {scheduler_job.py:1294} INFO - Created <DagRun dag_prueba_macros @ 2021-03-15T15:00:00+00:00: scheduled__2021-03-15T15:00:00+00:00, externally triggered: False>
+[2021-06-23 18:40:54,226] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dag_prueba_macros @ 2021-03-15 15:00:00+00:00: scheduled__2021-03-15T15:00:00+00:00, externally triggered: False>
+[2021-06-23 18:40:54,287] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_prueba_macros> because no tasks in DAG have SLAs
+[2021-06-23 18:40:54,304] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dag_prueba_macros.start 2021-03-15 15:00:00+00:00 [success]> in ORM
+[2021-06-23 18:40:54,321] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dag_prueba_macros.prueba_python 2021-03-15 15:00:00+00:00 [scheduled]> in ORM
+[2021-06-23 18:40:54,338] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dag_prueba_macros.prueba_pull 2021-03-15 15:00:00+00:00 [scheduled]> in ORM
+[2021-06-23 18:40:54,361] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.587 seconds
+[2021-06-23 18:41:09,825] {scheduler_job.py:154} INFO - Started process (PID=2433) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:41:09,865] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:41:09,869] {logging_mixin.py:112} INFO - [2021-06-23 18:41:09,869] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:41:09,938] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_prueba_macros']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:41:10,450] {scheduler_job.py:1284} INFO - Processing dag_prueba_macros
+[2021-06-23 18:41:10,488] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dag_prueba_macros @ 2021-03-15 15:00:00+00:00: scheduled__2021-03-15T15:00:00+00:00, externally triggered: False>
+[2021-06-23 18:41:10,544] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_prueba_macros> because no tasks in DAG have SLAs
+[2021-06-23 18:41:10,558] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dag_prueba_macros.prueba_bash 2021-03-15 15:00:00+00:00 [scheduled]> in ORM
+[2021-06-23 18:41:10,572] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.747 seconds
+[2021-06-23 18:41:27,953] {scheduler_job.py:154} INFO - Started process (PID=2567) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:41:27,995] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:41:28,008] {logging_mixin.py:112} INFO - [2021-06-23 18:41:28,007] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:41:28,090] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_prueba_macros']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:41:28,598] {scheduler_job.py:1284} INFO - Processing dag_prueba_macros
+[2021-06-23 18:41:28,633] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dag_prueba_macros @ 2021-03-15 15:00:00+00:00: scheduled__2021-03-15T15:00:00+00:00, externally triggered: False>
+[2021-06-23 18:41:28,712] {logging_mixin.py:112} INFO - [2021-06-23 18:41:28,712] {dagrun.py:318} INFO - Marking run <DagRun dag_prueba_macros @ 2021-03-15 15:00:00+00:00: scheduled__2021-03-15T15:00:00+00:00, externally triggered: False> successful
+[2021-06-23 18:41:28,744] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_prueba_macros> because no tasks in DAG have SLAs
+[2021-06-23 18:41:28,763] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.810 seconds
+[2021-06-23 18:42:21,410] {scheduler_job.py:154} INFO - Started process (PID=282) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:42:21,423] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:42:21,429] {logging_mixin.py:112} INFO - [2021-06-23 18:42:21,429] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:42:21,480] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_prueba_macros']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:42:21,610] {scheduler_job.py:1284} INFO - Processing dag_prueba_macros
+[2021-06-23 18:42:21,622] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_prueba_macros> because no tasks in DAG have SLAs
+[2021-06-23 18:42:21,628] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.218 seconds
+[2021-06-23 18:42:47,874] {scheduler_job.py:154} INFO - Started process (PID=542) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:42:47,895] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:42:47,899] {logging_mixin.py:112} INFO - [2021-06-23 18:42:47,898] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:42:47,940] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_prueba_macros']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:42:48,120] {scheduler_job.py:1284} INFO - Processing dag_prueba_macros
+[2021-06-23 18:42:48,135] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_prueba_macros> because no tasks in DAG have SLAs
+[2021-06-23 18:42:48,140] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.266 seconds
+[2021-06-23 18:43:14,240] {scheduler_job.py:154} INFO - Started process (PID=802) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:43:14,253] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:43:14,256] {logging_mixin.py:112} INFO - [2021-06-23 18:43:14,255] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:43:14,307] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_prueba_macros']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:43:14,458] {scheduler_job.py:1284} INFO - Processing dag_prueba_macros
+[2021-06-23 18:43:14,514] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_prueba_macros> because no tasks in DAG have SLAs
+[2021-06-23 18:43:14,523] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.284 seconds
+[2021-06-23 18:43:41,810] {scheduler_job.py:154} INFO - Started process (PID=1062) to work on /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:43:41,818] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_hello_plantillasymacros.py for tasks to queue
+[2021-06-23 18:43:41,834] {logging_mixin.py:112} INFO - [2021-06-23 18:43:41,834] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:43:41,895] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_prueba_macros']) retrieved from /opt/airflow/dags/dag_hello_plantillasymacros.py
+[2021-06-23 18:43:42,080] {scheduler_job.py:1284} INFO - Processing dag_prueba_macros
+[2021-06-23 18:43:42,106] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dag_prueba_macros> because no tasks in DAG have SLAs
+[2021-06-23 18:43:42,122] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_hello_plantillasymacros.py took 0.312 seconds
