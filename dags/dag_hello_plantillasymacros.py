@@ -57,5 +57,6 @@ with DAG(dag_id='dag_prueba_macros',
             task_id = 'prueba_bash_macro',
             bash_command= 'echo {{ ti.xcom_pull(task_ids="prueba_python") }}'
         )
+        
 
 start >> prueba_python >> prueba_pull >> prueba_bash >> prueba_bash_macro
