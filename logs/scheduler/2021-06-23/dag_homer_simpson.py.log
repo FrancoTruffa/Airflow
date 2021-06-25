@@ -490,3 +490,273 @@
 [2021-06-23 18:43:54,208] {logging_mixin.py:112} INFO - [2021-06-23 18:43:54,206] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
 [2021-06-23 18:43:54,263] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
 [2021-06-23 18:43:54,420] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.234 seconds
+[2021-06-23 18:59:32,793] {scheduler_job.py:154} INFO - Started process (PID=212) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 18:59:32,819] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 18:59:32,825] {logging_mixin.py:112} INFO - [2021-06-23 18:59:32,824] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 18:59:32,873] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 18:59:32,979] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.186 seconds
+[2021-06-23 18:59:47,090] {scheduler_job.py:154} INFO - Started process (PID=352) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 18:59:47,106] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 18:59:47,117] {logging_mixin.py:112} INFO - [2021-06-23 18:59:47,116] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 18:59:47,144] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 18:59:47,236] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.146 seconds
+[2021-06-23 19:00:00,308] {scheduler_job.py:154} INFO - Started process (PID=483) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:00:00,335] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:00:00,340] {logging_mixin.py:112} INFO - [2021-06-23 19:00:00,339] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:00:00,377] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:00:00,452] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.144 seconds
+[2021-06-23 19:00:13,609] {scheduler_job.py:154} INFO - Started process (PID=613) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:00:13,623] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:00:13,628] {logging_mixin.py:112} INFO - [2021-06-23 19:00:13,628] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:00:13,673] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:00:13,734] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.125 seconds
+[2021-06-23 19:00:26,761] {scheduler_job.py:154} INFO - Started process (PID=743) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:00:26,775] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:00:26,780] {logging_mixin.py:112} INFO - [2021-06-23 19:00:26,779] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:00:26,832] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:00:26,914] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.151 seconds
+[2021-06-23 19:00:40,006] {scheduler_job.py:154} INFO - Started process (PID=873) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:00:40,026] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:00:40,029] {logging_mixin.py:112} INFO - [2021-06-23 19:00:40,028] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:00:40,065] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:00:40,153] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.147 seconds
+[2021-06-23 19:00:53,181] {scheduler_job.py:154} INFO - Started process (PID=1003) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:00:53,195] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:00:53,202] {logging_mixin.py:112} INFO - [2021-06-23 19:00:53,202] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:00:53,227] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:00:53,307] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.127 seconds
+[2021-06-23 19:01:06,416] {scheduler_job.py:154} INFO - Started process (PID=1135) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:01:06,432] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:01:06,438] {logging_mixin.py:112} INFO - [2021-06-23 19:01:06,436] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:01:06,495] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:01:06,748] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.331 seconds
+[2021-06-23 19:01:19,606] {scheduler_job.py:154} INFO - Started process (PID=1263) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:01:19,629] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:01:19,633] {logging_mixin.py:112} INFO - [2021-06-23 19:01:19,631] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:01:19,678] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:01:19,911] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.305 seconds
+[2021-06-23 19:01:32,860] {scheduler_job.py:154} INFO - Started process (PID=1393) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:01:32,867] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:01:32,869] {logging_mixin.py:112} INFO - [2021-06-23 19:01:32,869] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:01:32,890] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:01:33,050] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.190 seconds
+[2021-06-23 19:01:46,119] {scheduler_job.py:154} INFO - Started process (PID=1523) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:01:46,133] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:01:46,148] {logging_mixin.py:112} INFO - [2021-06-23 19:01:46,143] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:01:46,208] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:01:46,450] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.331 seconds
+[2021-06-23 19:01:59,292] {scheduler_job.py:154} INFO - Started process (PID=1653) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:01:59,307] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:01:59,310] {logging_mixin.py:112} INFO - [2021-06-23 19:01:59,309] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:01:59,351] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:01:59,601] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.309 seconds
+[2021-06-23 19:02:12,536] {scheduler_job.py:154} INFO - Started process (PID=1783) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:02:12,544] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:02:12,547] {logging_mixin.py:112} INFO - [2021-06-23 19:02:12,547] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:02:12,575] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:02:12,739] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.210 seconds
+[2021-06-23 19:02:25,728] {scheduler_job.py:154} INFO - Started process (PID=1913) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:02:25,744] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:02:25,751] {logging_mixin.py:112} INFO - [2021-06-23 19:02:25,749] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:02:25,792] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:02:26,015] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.287 seconds
+[2021-06-23 19:02:38,912] {scheduler_job.py:154} INFO - Started process (PID=2043) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:02:38,925] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:02:38,935] {logging_mixin.py:112} INFO - [2021-06-23 19:02:38,930] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:02:38,981] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:02:39,212] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.301 seconds
+[2021-06-23 19:02:52,116] {scheduler_job.py:154} INFO - Started process (PID=2173) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:02:52,128] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:02:52,133] {logging_mixin.py:112} INFO - [2021-06-23 19:02:52,132] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:02:52,169] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:02:52,396] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.280 seconds
+[2021-06-23 19:03:05,304] {scheduler_job.py:154} INFO - Started process (PID=2303) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:03:05,318] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:03:05,331] {logging_mixin.py:112} INFO - [2021-06-23 19:03:05,330] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:03:05,391] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:03:05,556] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.252 seconds
+[2021-06-23 19:03:18,535] {scheduler_job.py:154} INFO - Started process (PID=2434) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:03:18,559] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:03:18,563] {logging_mixin.py:112} INFO - [2021-06-23 19:03:18,563] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:03:18,636] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:03:18,923] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.388 seconds
+[2021-06-23 19:03:31,823] {scheduler_job.py:154} INFO - Started process (PID=2565) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:03:31,841] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:03:31,844] {logging_mixin.py:112} INFO - [2021-06-23 19:03:31,843] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:03:31,891] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:03:32,142] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.319 seconds
+[2021-06-23 19:03:44,960] {scheduler_job.py:154} INFO - Started process (PID=2693) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:03:45,002] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:03:45,066] {logging_mixin.py:112} INFO - [2021-06-23 19:03:45,066] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:03:45,099] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:03:45,354] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.394 seconds
+[2021-06-23 19:03:58,200] {scheduler_job.py:154} INFO - Started process (PID=2823) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:03:58,240] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:03:58,248] {logging_mixin.py:112} INFO - [2021-06-23 19:03:58,242] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:03:58,274] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:03:58,493] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.294 seconds
+[2021-06-23 19:04:11,543] {scheduler_job.py:154} INFO - Started process (PID=2953) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:04:11,579] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:04:11,591] {logging_mixin.py:112} INFO - [2021-06-23 19:04:11,590] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:04:11,627] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:04:11,963] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.420 seconds
+[2021-06-23 19:04:24,887] {scheduler_job.py:154} INFO - Started process (PID=3087) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:04:24,909] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:04:24,928] {logging_mixin.py:112} INFO - [2021-06-23 19:04:24,927] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:04:24,986] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:04:25,466] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.579 seconds
+[2021-06-23 19:04:40,511] {scheduler_job.py:154} INFO - Started process (PID=3226) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:04:40,517] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:04:40,529] {logging_mixin.py:112} INFO - [2021-06-23 19:04:40,528] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:04:40,563] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:04:40,958] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.447 seconds
+[2021-06-23 19:04:54,202] {scheduler_job.py:154} INFO - Started process (PID=3360) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:04:54,226] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:04:54,256] {logging_mixin.py:112} INFO - [2021-06-23 19:04:54,255] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:04:54,376] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:04:55,614] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 1.412 seconds
+[2021-06-23 19:05:10,585] {scheduler_job.py:154} INFO - Started process (PID=3505) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:05:10,597] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:05:10,603] {logging_mixin.py:112} INFO - [2021-06-23 19:05:10,602] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:05:10,641] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:05:11,102] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.517 seconds
+[2021-06-23 19:05:25,061] {scheduler_job.py:154} INFO - Started process (PID=3648) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:05:25,082] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:05:25,085] {logging_mixin.py:112} INFO - [2021-06-23 19:05:25,084] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:05:25,142] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:05:25,726] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.665 seconds
+[2021-06-23 19:05:39,188] {scheduler_job.py:154} INFO - Started process (PID=3788) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:05:39,210] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:05:39,217] {logging_mixin.py:112} INFO - [2021-06-23 19:05:39,216] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:05:39,260] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:05:39,629] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.441 seconds
+[2021-06-23 19:05:52,423] {scheduler_job.py:154} INFO - Started process (PID=3925) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:05:52,429] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:05:52,441] {logging_mixin.py:112} INFO - [2021-06-23 19:05:52,440] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:05:52,731] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:05:52,812] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.389 seconds
+[2021-06-23 19:06:05,700] {scheduler_job.py:154} INFO - Started process (PID=4061) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:06:05,711] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:06:05,717] {logging_mixin.py:112} INFO - [2021-06-23 19:06:05,717] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:06:05,856] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:06:05,924] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.224 seconds
+[2021-06-23 19:06:18,899] {scheduler_job.py:154} INFO - Started process (PID=4190) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:06:18,917] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:06:18,921] {logging_mixin.py:112} INFO - [2021-06-23 19:06:18,920] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:06:19,056] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:06:19,099] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.201 seconds
+[2021-06-23 19:06:32,103] {scheduler_job.py:154} INFO - Started process (PID=4320) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:06:32,113] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:06:32,116] {logging_mixin.py:112} INFO - [2021-06-23 19:06:32,115] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:06:32,368] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:06:32,403] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.300 seconds
+[2021-06-23 19:06:45,326] {scheduler_job.py:154} INFO - Started process (PID=4452) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:06:45,339] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:06:45,344] {logging_mixin.py:112} INFO - [2021-06-23 19:06:45,343] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:06:45,635] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:06:45,697] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.371 seconds
+[2021-06-23 19:06:58,569] {scheduler_job.py:154} INFO - Started process (PID=4580) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:06:58,581] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:06:58,591] {logging_mixin.py:112} INFO - [2021-06-23 19:06:58,591] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:06:58,828] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:06:58,866] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.298 seconds
+[2021-06-23 19:07:11,776] {scheduler_job.py:154} INFO - Started process (PID=4710) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:07:11,793] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:07:11,795] {logging_mixin.py:112} INFO - [2021-06-23 19:07:11,795] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:07:11,975] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:07:12,050] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.274 seconds
+[2021-06-23 19:07:24,963] {scheduler_job.py:154} INFO - Started process (PID=4840) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:07:24,981] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:07:24,985] {logging_mixin.py:112} INFO - [2021-06-23 19:07:24,984] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:07:25,111] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:07:25,176] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.214 seconds
+[2021-06-23 19:07:38,178] {scheduler_job.py:154} INFO - Started process (PID=4972) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:07:38,185] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:07:38,188] {logging_mixin.py:112} INFO - [2021-06-23 19:07:38,187] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:07:38,381] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:07:38,439] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.262 seconds
+[2021-06-23 19:07:51,369] {scheduler_job.py:154} INFO - Started process (PID=5100) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:07:51,374] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:07:51,383] {logging_mixin.py:112} INFO - [2021-06-23 19:07:51,383] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:07:51,585] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:07:51,646] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.277 seconds
+[2021-06-23 19:08:05,644] {scheduler_job.py:154} INFO - Started process (PID=5231) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:08:05,670] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:08:05,690] {logging_mixin.py:112} INFO - [2021-06-23 19:08:05,677] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:08:06,562] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:08:07,882] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 2.237 seconds
+[2021-06-23 19:08:23,125] {scheduler_job.py:154} INFO - Started process (PID=5364) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:08:23,136] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:08:23,140] {logging_mixin.py:112} INFO - [2021-06-23 19:08:23,139] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:08:23,383] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:08:23,472] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.347 seconds
+[2021-06-23 19:11:58,357] {scheduler_job.py:154} INFO - Started process (PID=5495) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:11:58,545] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:11:58,548] {logging_mixin.py:112} INFO - [2021-06-23 19:11:58,547] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:11:58,582] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:11:58,658] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.301 seconds
+[2021-06-23 19:12:11,646] {scheduler_job.py:154} INFO - Started process (PID=5627) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:12:11,662] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:12:11,667] {logging_mixin.py:112} INFO - [2021-06-23 19:12:11,666] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:12:11,711] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:12:11,781] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.135 seconds
+[2021-06-23 19:12:24,858] {scheduler_job.py:154} INFO - Started process (PID=5755) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:12:24,867] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:12:24,869] {logging_mixin.py:112} INFO - [2021-06-23 19:12:24,869] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:12:24,901] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:12:24,957] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.099 seconds
+[2021-06-23 19:12:38,077] {scheduler_job.py:154} INFO - Started process (PID=5886) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:12:38,086] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:12:38,090] {logging_mixin.py:112} INFO - [2021-06-23 19:12:38,088] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:12:38,108] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:12:38,210] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.133 seconds
+[2021-06-23 19:12:51,274] {scheduler_job.py:154} INFO - Started process (PID=6015) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:12:51,287] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:12:51,292] {logging_mixin.py:112} INFO - [2021-06-23 19:12:51,291] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:12:51,333] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:12:51,408] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.134 seconds
+[2021-06-23 19:13:04,478] {scheduler_job.py:154} INFO - Started process (PID=6145) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:13:04,494] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:13:04,506] {logging_mixin.py:112} INFO - [2021-06-23 19:13:04,502] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:13:04,546] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:13:04,621] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.144 seconds
+[2021-06-23 19:13:17,612] {scheduler_job.py:154} INFO - Started process (PID=6275) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:13:17,621] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:13:17,624] {logging_mixin.py:112} INFO - [2021-06-23 19:13:17,624] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:13:17,648] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:13:17,727] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.115 seconds
+[2021-06-23 19:13:30,847] {scheduler_job.py:154} INFO - Started process (PID=6405) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:13:30,862] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:13:30,870] {logging_mixin.py:112} INFO - [2021-06-23 19:13:30,867] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:13:30,904] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:13:30,981] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.134 seconds
+[2021-06-23 19:13:44,085] {scheduler_job.py:154} INFO - Started process (PID=6535) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:13:44,103] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:13:44,107] {logging_mixin.py:112} INFO - [2021-06-23 19:13:44,106] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:13:44,153] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:13:44,232] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.146 seconds
+[2021-06-23 19:13:57,299] {scheduler_job.py:154} INFO - Started process (PID=6666) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:13:57,307] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:13:57,324] {logging_mixin.py:112} INFO - [2021-06-23 19:13:57,323] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:13:57,363] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:13:57,408] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.109 seconds
+[2021-06-23 19:14:10,505] {scheduler_job.py:154} INFO - Started process (PID=6795) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:14:10,519] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:14:10,522] {logging_mixin.py:112} INFO - [2021-06-23 19:14:10,521] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:14:10,557] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:14:10,606] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.101 seconds
+[2021-06-23 19:14:23,769] {scheduler_job.py:154} INFO - Started process (PID=6925) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:14:23,783] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:14:23,794] {logging_mixin.py:112} INFO - [2021-06-23 19:14:23,787] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:14:23,837] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:14:23,904] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.135 seconds
+[2021-06-23 19:14:36,949] {scheduler_job.py:154} INFO - Started process (PID=7055) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:14:36,965] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:14:36,970] {logging_mixin.py:112} INFO - [2021-06-23 19:14:36,968] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:14:36,996] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:14:37,072] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.124 seconds
+[2021-06-23 19:14:50,143] {scheduler_job.py:154} INFO - Started process (PID=7185) to work on /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:14:50,158] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/dag_homer_simpson.py for tasks to queue
+[2021-06-23 19:14:50,162] {logging_mixin.py:112} INFO - [2021-06-23 19:14:50,161] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:14:50,205] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['dag_homer_simpson']) retrieved from /opt/airflow/dags/dag_homer_simpson.py
+[2021-06-23 19:14:50,365] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/dag_homer_simpson.py took 0.222 seconds
